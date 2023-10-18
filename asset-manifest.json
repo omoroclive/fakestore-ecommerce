@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fakestore-ecommerce/static/css/main.4bfd3a71.css",
+    "main.js": "/fakestore-ecommerce/static/js/main.9d2219cf.js",
+    "static/media/logo.jpg": "/fakestore-ecommerce/static/media/logo.eff5b44105e6a7cd6b54.jpg",
+    "static/media/chamdor.png": "/fakestore-ecommerce/static/media/chamdor.d1a6b1990c54a919ef20.png",
+    "static/media/shirts.png": "/fakestore-ecommerce/static/media/shirts.c80e64f9a3e150897a63.png",
+    "static/media/wine.png": "/fakestore-ecommerce/static/media/wine.bf413b7f3a33e5d361d4.png",
+    "static/media/samsung s23.png": "/fakestore-ecommerce/static/media/samsung s23.84ed74ddb636010b191c.png",
+    "index.html": "/fakestore-ecommerce/index.html",
+    "main.4bfd3a71.css.map": "/fakestore-ecommerce/static/css/main.4bfd3a71.css.map",
+    "main.9d2219cf.js.map": "/fakestore-ecommerce/static/js/main.9d2219cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bfd3a71.css",
+    "static/js/main.9d2219cf.js"
+  ]
+}
